@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "GestionFichier": {
+      "commandName": "Project",
+      "commandLineArgs": "-aide ",
+      "environmentVariables": {
+        "Key": "Value"
+      }
+    }
+  }
+}
